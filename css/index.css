@@ -1,3 +1,10 @@
+h2, h3 {
+  color: #321006;
+  text-shadow: darken 1px 1px #e2ad94, 5%;
+  padding: 0px;
+  position: absolute;
+}
+
 body {
   background-color: lighten #c44d34, 10%;
   width: 100%;
@@ -5,22 +12,13 @@ body {
 
 h2 {
   font-size: 50px;
-  color: #321006;
-  text-shadow: darken 1px 1px #e2ad94, 5%;
-  padding: 0px;
-  text-align: center;
-  position: absolute;
   top: 55%;
   left: 22%;
+  text-align: center;
 }
 
 h3 {
   font-size: 30px;
-  color: #321006;
-  text-shadow: 1px 1px #e2ad94;
-  padding: 0px;
-  text-align: center;
-  position: absolute;
   top: 65%;
   left: 50%;
 }
