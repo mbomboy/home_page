@@ -1,103 +1,85 @@
-body
-    {
-        background-color:#c44d13;
-        width:100%;
-    }
+body {
+  background-color: #c44d34;
+  width: 100%;
+}
 
-h2
-    {
-        font-size:50px;
-        color:#321006;
-        text-shadow:1px 1px #e2ad83;
-        padding:0px;
-        text-align: center;
-        position: absolute;
-        top:55%;
-        left:22%;
-       
-    }
+h2 {
+  font-size: 50px;
+  color: #321006;
+  text-shadow: 1px 1px #e2ad94;
+  padding: 0px;
+  text-align: center;
+  position: absolute;
+  top: 55%;
+  left: 22%;
+}
 
-h3
-     {
-        font-size:30px;
-        color:#321006;
-        text-shadow:1px 1px #e2ad83;
-        padding:0px;
-        text-align: center;
-        position: absolute;
-        top:65%;
-        left:50%;
-        
-    }
-#content
-    {
-        margin:auto;
-        width:60%;
-    }
+h3 {
+  font-size: 30px;
+  color: #321006;
+  text-shadow: 1px 1px #e2ad94;
+  padding: 0px;
+  text-align: center;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+}
 
-#header
-    {
-        width:625px;
-        height:469px;
-        margin: auto;
-        
-    }
+#content {
+  margin: auto;
+  width: 60%;
+}
 
-table
-    {
-    
-    background-color: #321006;
-    width:100%;
-    height:40px;
-    padding:0px;
-    margin-bottom:5px;
-    float:right;
-    
-    
-    }
+#header {
+  width: 625px;
+  height: 469px;
+  margin: auto;
+}
 
-td
-    {
-     border:solid 1px #e2ad83;
-    padding:0px;
-    margin:0px;
-    text-align: center;
-    }
+table {
+  background-color: #Ce4662;
+  width: 100%;
+  height: 40px;
+  padding: 0px;
+  margin-bottom: 5px;
+  float: right;
+}
 
-#img
-    {
-    text-align: center;
-    width:auto;
-    padding:0px;
-    margin:auto;
-    }
+td {
+  border: solid 1px #e2ad83;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
 
-#copy
-    {
-    background-color: #321006;
-    color:#e2ad83;   
-    width:100%;
-    text-align: center;
-    border: 1px solid #e2ad83;
-    }
-a:link
-    {
-        text-decoration: underline;
-        color:tan;
-        
-    }
+#img {
+  text-align: center;
+  width: auto;
+  padding: 0px;
+  margin: auto;
+}
 
-a:visited
-    {
-        color:tan;
-    }
+#copy {
+  background-color: #Ce4662;
+  color: #d2b48c;
+  width: 100%;
+  text-align: center;
+  border: 1px solid #000000;
+}
 
-a:hover
-    {
-        color:tan;
-    }
+a:link {
+  text-decoration: underline;
+  color: tan;
+}
 
-a:active
-    {
-        color:tan;
-    }
+a:visited {
+  color: tan;
+}
+
+a:hover {
+  color: tan;
+}
+
+a:active {
+  color: tan;
+}
